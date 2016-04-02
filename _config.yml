@@ -1,28 +1,38 @@
-name: Alyssa LoBello
-favicon: null
-layout_spectrum: 0.2345
-typography_spectrum: 0.79882
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fefefe'
-    - '#181f25'
-    - '#8f9772'
-    - '#e2b9a7'
-    - '#6b734a'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8028674
+  brandStrength: 0.4982079
+  lightness: 1
+  brandColors:
+    - '#000000'
+    - '#888888'
+    - '#FAFAFA'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.79882
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9856631
+favicon: null
+name: Alyssa LoBello
