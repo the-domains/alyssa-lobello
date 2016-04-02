@@ -1,0 +1,28 @@
+name: Alyssa LoBello
+favicon: null
+layout_spectrum: 0.940055102808401
+typography_spectrum: 0.07401272072456777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5710669998079538
+  lightness: 0.23542335769161582
+  saturation: 0.6462504563387483
+  rhythmicContrast: 0.776186759583652
+purpose: []
