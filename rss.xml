@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Alyssa LoBello]]></title>
         <description><![CDATA[Alyssa LoBello]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alyssa-lobello/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 06:58:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 06:58:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alyssa-lobello/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e289cc52-010d-4cc6-b026-19f58a5199b5.jpg">]]></description>
+            <link>https://thegrid.ai/alyssa-lobello/ef6f75ca-def3-40c4-b500-afeb3af434fa/index.html</link>
+            <guid isPermaLink="false">ef6f75ca-def3-40c4-b500-afeb3af434fa</guid>
+            <pubDate>Sat, 02 Apr 2016 06:57:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed449e48-9821-48aa-ae74-916bd39eadbe.jpg">]]></description>
-            <link>undefined4097322e-0f42-4cf0-8df7-517c5651dce9/index.html</link>
+            <link>https://thegrid.ai/alyssa-lobello/4097322e-0f42-4cf0-8df7-517c5651dce9/index.html</link>
             <guid isPermaLink="false">4097322e-0f42-4cf0-8df7-517c5651dce9</guid>
             <pubDate>Sat, 02 Apr 2016 06:57:07 GMT</pubDate>
         </item>
