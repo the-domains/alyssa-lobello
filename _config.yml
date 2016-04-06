@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,27 +13,26 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8028674
+  saturation: 0.3763441
   brandStrength: 0.4982079
-  lightness: 1
+  lightness: 0.1612903
   brandColors:
     - '#000000'
     - '#888888'
     - '#FAFAFA'
   rhythmicContrast: 0.5
 typography_spectrum: 0.79882
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 0.9856631
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Alyssa LoBello
